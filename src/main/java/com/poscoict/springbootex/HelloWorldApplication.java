@@ -9,7 +9,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Bootstrap Class
  * 
  * 
- *
  */
 @SpringBootApplication
 public class HelloWorldApplication {
